@@ -24,7 +24,8 @@ Cada entidad tiene **mínimo 10 atributos** (incluyendo el id).
 - **HistoriaClinica** → contiene la información médica del paciente.  
 - **Medico** → representa al doctor.  
 - **TarjetaProfesional** → información profesional del médico.
-- ** sexo** 
+- **Sexo** → Información intima del paciente.
+- **Ocupación**→ Información intima del paciente.
 
 ---
 
